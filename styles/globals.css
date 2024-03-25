@@ -33,3 +33,27 @@ code {
   justify-content: center;
   align-items: center;
 }
+
+.description{
+  font-size: 1.5em;
+}
+
+.profile-pic{
+  height: 30vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /*mask-image: linear-gradient(rgb(0 0 0 / 100%), transparent);*/
+  border-radius: 50%;
+}
+
+.project-logo{
+  height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 1em;
+  border: solid black ;
+}
