@@ -17,6 +17,7 @@ export default function Home() {
     </br>
     I am skilled with Maven, Spring Boot, Hibernate, Thymeleaf, Vite and UnoCSS.
         </p>
+      <div>
               <p>
            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50"
                 height="50" />
@@ -31,6 +32,10 @@ export default function Home() {
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"
                 height="50" />
         </p>
+                  </div> 
+                  <div>
+                  <Project/>
+                  </div>
       </main>
 
       <Footer />
