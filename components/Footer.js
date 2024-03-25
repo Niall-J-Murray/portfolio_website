@@ -11,7 +11,7 @@ export default function Footer() {
                 height="50">
                   </a>
                   <a href="https://github.com/Niall-J-Murray/" target="_blank"><img
-                src="https://commons.wikimedia.org/wiki/File:Font_Awesome_5_brands_github.svg" width="100"
+                src="Nioctocat.png" width="100"
                 height="50">
                   </a>
         <a href="mailto: niall_murray@outlook.com">
