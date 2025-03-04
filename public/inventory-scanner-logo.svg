@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100" fill="none">
+  <rect width="100" height="100" rx="10" fill="#539E43"/>
+  <rect x="15" y="30" width="70" height="40" rx="5" fill="#FFFFFF"/>
+  <rect x="20" y="35" width="60" height="10" fill="#333333"/>
+  <rect x="22" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="26" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="30" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="36" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="40" y="35" width="4" height="10" fill="#FFFFFF"/>
+  <rect x="46" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="52" y="35" width="4" height="10" fill="#FFFFFF"/>
+  <rect x="58" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="62" y="35" width="2" height="10" fill="#FFFFFF"/>
+  <rect x="66" y="35" width="4" height="10" fill="#FFFFFF"/>
+  <rect x="72" y="35" width="6" height="10" fill="#FFFFFF"/>
+  <rect x="25" y="50" width="50" height="15" fill="#EEEEEE"/>
+  <path d="M35 70L65 70" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M38 75L62 75" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <path d="M42 80L58 80" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"/>
+  <rect x="28" y="55" width="44" height="5" fill="#539E43"/>
+</svg> 
